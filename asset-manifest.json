@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kanchanadeveloper/TypeingRace.github.io/static/css/main.ba9bfb87.css",
-    "main.js": "/kanchanadeveloper/TypeingRace.github.io/static/js/main.237f0d18.js",
-    "index.html": "/kanchanadeveloper/TypeingRace.github.io/index.html",
-    "main.ba9bfb87.css.map": "/kanchanadeveloper/TypeingRace.github.io/static/css/main.ba9bfb87.css.map",
-    "main.237f0d18.js.map": "/kanchanadeveloper/TypeingRace.github.io/static/js/main.237f0d18.js.map"
+    "main.css": "/kanchanadeveloper/TypeingRace/static/css/main.ba9bfb87.css",
+    "main.js": "/kanchanadeveloper/TypeingRace/static/js/main.237f0d18.js",
+    "index.html": "/kanchanadeveloper/TypeingRace/index.html",
+    "main.ba9bfb87.css.map": "/kanchanadeveloper/TypeingRace/static/css/main.ba9bfb87.css.map",
+    "main.237f0d18.js.map": "/kanchanadeveloper/TypeingRace/static/js/main.237f0d18.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9bfb87.css",

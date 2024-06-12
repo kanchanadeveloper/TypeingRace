@@ -2,7 +2,7 @@
   "name": "typing-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kanchanadeveloper.github.io/kanchanadeveloper/TypeingRace/",
+  "homepage": "https://kanchanadeveloper.github.io/TypeingRace/",
   "dependencies": {
     "@faker-js/faker": "^7.4.1",
     "@testing-library/jest-dom": "^5.17.0",
